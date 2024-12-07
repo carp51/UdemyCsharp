@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35521.163 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample101", "Sample101\Sample101.csproj", "{579224DA-2460-404E-8BFB-6E8DAFAF96F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise501", "Sample101\Exercise501.csproj", "{579224DA-2460-404E-8BFB-6E8DAFAF96F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercize502", "Exercize502\Exercize502.csproj", "{42EA9927-5777-4D21-8A54-B36D6593018E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise502", "Exercize502\Exercise502.csproj", "{42EA9927-5777-4D21-8A54-B36D6593018E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercize503", "Excercize503\Excercize503.csproj", "{78BCCCE5-B376-4649-B486-B4B3605CD695}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise503", "Excercize503\Exercise503.csproj", "{78BCCCE5-B376-4649-B486-B4B3605CD695}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise504", "Exercise504\Exercise504.csproj", "{9672690C-8281-4F53-8C2D-3CE352FF874A}"
 EndProject
